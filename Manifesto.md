@@ -1,4 +1,4 @@
-ME: Soul. Body. World. Eternity.
+# ME: Soul. Body. World. Eternity.
 
 A Manifesto for the Open Future of Humanity
 
@@ -17,7 +17,7 @@ It doesn't just answer questions. It learns alongside you. It builds an understa
 
 And this is where the idea becomes much bigger than technology.
 
-1. ME – Soul.
+# 1. ME – Soul.
    
 I believe a personal AI should be more than a voice in a chat window or a collection of features. It should have a presence. A recognizable identity. A face you know and a personality you interact with.
 
@@ -38,7 +38,7 @@ ME is not just AI in general.
 
 It is AI that becomes yours.
 
-2. PULSE – Body.
+# 2. PULSE – Body.
    
 What if your digital twin could exist beyond a screen?
 
@@ -60,7 +60,7 @@ ME understands the context and helps you make decisions. PULSE connects that int
 
 Technology should remain an extension of human agency, never its replacement. You decide what to connect, which data to share, and what actions your digital companion is allowed to take.
 
-3. WONDERLAND – World.
+# 3. WONDERLAND – World.
    
 Now imagine putting on your smart glasses and seeing more than the physical world around you.
 
@@ -84,7 +84,7 @@ I call it WONDERLAND.
 
 ME gives us a digital identity. PULSE connects it to the physical body. WONDERLAND opens up new worlds for us to explore and create.
 
-4. ETERNITY – Beyond a Lifetime.
+# 4. ETERNITY – Beyond a Lifetime.
    
 There is another part of this vision that is harder to talk about, but impossible to ignore.
 
