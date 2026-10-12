@@ -6,6 +6,15 @@
 
 The future should not belong to a single company, technology, or artificial intelligence system. It should be shaped by people who retain the right to define their own goals, control their digital identities, and choose the future they want to create.
 
+## Current Stage
+
+ME is an evolving vision, not a finished product or a validated technological solution.
+
+The long-term ambition is broad, but the first step is deliberately narrow: to explore whether personal memory, connected experiences, and evolving context can make interactions with AI more useful.
+
+The project is currently at an early exploration and prototyping stage. Its assumptions must be tested, its limitations documented, and its direction refined through practical experience and feedback.
+
+The four dimensions described below represent a long-term direction. They should not be understood as four products that already exist.
 ME is a vision, an open movement, a technology ecosystem, and a long-term entrepreneurial project.
 
 ---
