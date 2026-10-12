@@ -112,3 +112,11 @@ The question now is much bigger:
 **What if AI could become a personal part of being human?**
 
 *First, Soul. Then, Body. Then, World. And one day, Eternity.*
+
+---
+
+## A Note on This Story
+
+This is a personal account of how the ME vision emerged. It describes questions, ideas, and directions explored along the way — not a claim that all the technologies or capabilities described here have been built or validated.
+
+The next chapter will be written through experiments, honest feedback, collaboration, and what we learn by putting the first ideas into practice.
