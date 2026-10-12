@@ -12,7 +12,8 @@ For a doctor, it becomes a different kind of assistant than it would for a pilot
 It doesn't just answer questions. It learns alongside you. It builds an understanding of your character, remembers your experiences, and adapts to your way of thinking. Over time, it becomes your digital twin.
 And this is where the idea becomes much bigger than technology.
 
-1. ME – Soul
+1. ME – Soul.
+   
 I believe a personal AI should be more than a voice in a chat window or a collection of features. It should have a presence. A recognizable identity. A face you know and a personality you interact with.
 An avatar.
 It lives on your phone, your computer, your car display. It appears in your smart glasses, watches, and other connected devices. It accompanies you at home, at work, and while you travel. You can see it, hear it, and interact with it whenever you need to.
@@ -24,7 +25,8 @@ I call this the soul of ME. Not in a religious sense, and not as a claim that te
 ME is not just AI in general.
 It is AI that becomes yours.
 
-2. PULSE – Body
+2. PULSE – Body.
+   
 What if your digital twin could exist beyond a screen?
 Technology is already helping us monitor our bodies, improve our hearing, restore movement, and interact with the physical world in new ways. The next step is to connect these capabilities with personal AI.
 This is PULSE: the physical dimension of ME.
@@ -37,7 +39,8 @@ These are not simply gadgets. They are different points of connection between a 
 ME understands the context and helps you make decisions. PULSE connects that intelligence to your physical life.
 Technology should remain an extension of human agency, never its replacement. You decide what to connect, which data to share, and what actions your digital companion is allowed to take.
 
-3. WONDERLAND – World
+3. WONDERLAND – World.
+   
 Now imagine putting on your smart glasses and seeing more than the physical world around you.
 You see your avatar. You can speak to it, ask questions, and receive information in context. With their permission, you can also interact with other people's avatars.
 Imagine a city where digital information becomes part of the environment.
@@ -50,7 +53,8 @@ This is more than an interface. It is a new environment for human life.
 I call it WONDERLAND.
 ME gives us a digital identity. PULSE connects it to the physical body. WONDERLAND opens up new worlds for us to explore and create.
 
-4. ETERNITY – Beyond a Lifetime
+4. ETERNITY – Beyond a Lifetime.
+   
 There is another part of this vision that is harder to talk about, but impossible to ignore.
 We live, learn, love, make mistakes, create things, and tell stories. Eventually, much of what we have accumulated disappears. Some remains in the memories of our loved ones. Some survives in photographs, letters, books, and recordings.
 Now imagine a person who has lived with ME for decades.
