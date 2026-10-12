@@ -1,4 +1,4 @@
-# The History of ME
+# The Story Behind ME
 
 *How a personal problem grew into a vision for the future of humanity.*
 
@@ -40,6 +40,8 @@ It could become my digital twin: a personal AI that reflects who I am, understan
 
 The key is choice. It should know what I allow it to know, and I should remain in control of my personal information.
 
+But there is an even more important principle: this digital identity should not lock me into who I am today. It should grow with me, adapt as I change, and help me discover who I might become.
+
 ## 5. PULSE: AI Steps into the Real World
 
 But there was another limitation.
@@ -48,7 +50,7 @@ AI still largely existed inside digital interfaces: websites, applications, chat
 
 This question gave rise to **PULSE**: the idea of connecting personal AI to the human body and everyday life through devices and interfaces that move beyond the traditional screen.
 
-The goal was no longer simply to talk to AI. It was to make AI a more natural part of how we experience the world.
+The goal was no longer simply to talk to AI. It was to make AI a more natural part of how we experience the world, helping us do more while preserving our ability to choose how we live.
 
 ## 6. Smart Glasses and the Beginning of WONDERLAND
 
@@ -61,6 +63,8 @@ Then came the next realization. If we can add an AI presence to our view of real
 We could add information, experiences, digital objects, and entirely new ways of interacting with our surroundings. Reality itself could become a platform for a new layer of intelligence and imagination.
 
 This became the foundation of **WONDERLAND**: a world in which the digital and physical are no longer separate experiences.
+
+It is not only about new technology. It is about expanding the range of things people can experience, create, and imagine.
 
 ## 7. ETERNITY: What Happens When We Are Gone?
 
@@ -83,22 +87,6 @@ Looking back, the four pillars emerged from a chain of personal questions rather
 - **ME - Soul:** Who am I in the digital world?
 - **PULSE - Body:** How can my personal AI accompany me in physical life?
 - **WONDERLAND - World:** How can AI transform the way I experience reality?
-- **ETERNITY - Beyond a Lifetime:** What part of my identity and experience can I choose to leave behind?
+- **ETERNITY — Beyond a Lifetime:** What part of my identity and experience can I choose to leave behind?
 
-Together, they form a broader vision of how personal AI could evolve from a tool into a companion, from a companion into a presence in the physical world, and from there into new ways of experiencing reality and preserving human legacy.
-
-## 9. Where It Goes from Here
-
-ME is an evolving vision, not a finished product. Many of the technologies involved already exist in different forms, while others require significant research, experimentation, and development.
-
-I don't claim to have invented all these technologies, nor do I believe one company should own this entire future.
-
-I want to share the vision, test its assumptions, learn from others, and invite people who see its potential to help shape what comes next.
-
-The story began with five AI agents that couldn't work together the way I wanted.
-
-The question now is much bigger:
-
-**What if AI could become a personal part of being human?**
-
-*First, Soul. Then, Body. Then, World. And one day, Eternity.*
+Together, they form a broader vision of how personal AI could evolve from a tool into a companion, from a companion into a presence in the physical world, and
