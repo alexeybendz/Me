@@ -1,30 +1,36 @@
 # ME: Soul. Body. World. Eternity.
 
-**An open vision for the future of humanity.**
+**An open vision for a future where technology expands human freedom.**
 
-ME is a vision of a future in which every person can have a personal AI that learns alongside them, understands their individual context, and evolves into their digital twin.
+ME is an open vision of a future in which technology is built around the human being — not the other way around.
 
-The vision consists of four pillars:
+We imagine a world where everyone can have a personal digital identity that grows alongside them, preserves their experience, expands their capabilities, and helps them interact with the world.
 
-- **ME - Soul:** A personal digital identity that grows with you.
-- **PULSE - Body:** The connection between your digital identity and physical life.
-- **WONDERLAND - World:** A world where physical and digital realities merge.
-- **ETERNITY - Beyond a Lifetime:** The possibility of preserving memories, experiences, and personal legacy beyond death.
+ME is not just a personal AI assistant. It is a vision for an open ecosystem connecting human identity, artificial intelligence, physical reality, digital worlds, and the preservation of human legacy.
+
+## Four Pillars
+
+- **ME - Soul:** A personal digital identity that learns, remembers, and evolves alongside you.
+- **PULSE - Body:** The connection between your digital identity and the physical world through devices, sensors, and new ways of interacting with reality.
+- **WONDERLAND - World:** An open digital environment where people, avatars, AI, and digital experiences interact across augmented reality and virtual worlds.
+- **ETERNITY - Beyond a Lifetime:** The preservation of memories, knowledge, experiences, and personal legacy for future generations.
 
 ## Why ME?
 
-AI is evolving rapidly, but its future should not be limited to separate products and closed ecosystems.
+Technology is advancing rapidly, but the pieces of our digital future are being developed across separate products, platforms, and ecosystems.
 
-We believe in an open conversation about a future where people remain in control of their digital identities, personal data, and digital legacy.
+ME proposes a different perspective: bring these possibilities together around the human being and the freedom to shape one's own future.
 
-ME is not a claim to have invented these technologies. It is an invitation to bring ideas together, explore possibilities, and build the future collectively.
+We believe that people should retain control over their digital identities, memories, and permissions. They should be able to change providers, move between compatible systems, and choose how their digital lives evolve.
 
-## Join the Conversation
+No single company should have absolute control over a person's digital identity.
 
-This project is open to developers, researchers, designers, entrepreneurs, philosophers, and anyone interested in the future of humanity.
+## An Open Invitation
 
-Read the Manifesto.
+ME is a concept to explore, question, challenge, and develop collectively.
 
-Share your ideas, challenge the assumptions, and help shape the vision.
+It is not a claim to have invented the technologies behind this vision. It is an invitation to connect ideas, explore possibilities, and help shape a future in which technology serves humanity.
+
+We welcome developers, researchers, designers, entrepreneurs, philosophers, and everyone interested in the future of human identity and technology.
 
 **First, Soul. Then, Body. Then, World. And one day, Eternity.**
