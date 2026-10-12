@@ -23,7 +23,7 @@ ME is not a claim to have invented these technologies. It is an invitation to br
 
 This project is open to developers, researchers, designers, entrepreneurs, philosophers, and anyone interested in the future of humanity.
 
-Read the [Manifesto](MANIFESTO.md).
+Read the [ME Manifesto](MANIFESTO.md).
 
 Share your ideas, challenge the assumptions, and help shape the vision.
 
