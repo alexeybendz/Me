@@ -1,8 +1,8 @@
-ME: Soul. Body. World. Eternity.
+# ME: Soul. Body. World. Eternity.
 
-A Vision for an Open Future of Humanity
+## A Vision for an Open Future of Humanity
 
-ME is an open vision for a future in which technology expands human freedom, helps people realize their potential, and enables new forms of individual and collective life.
+**ME is an open vision for a future in which technology expands human freedom, helps people realize their potential, and enables new forms of individual and collective life.**
 
 The future should not belong to a single company, technology, or artificial intelligence system. It should be shaped by people who retain the right to define their own goals, control their digital identities, and choose the future they want to create.
 
@@ -10,7 +10,7 @@ ME is a vision, an open movement, a technology ecosystem, and a long-term entrep
 
 ---
 
-1. Why ME Exists
+## 1. Why ME Exists
 
 Artificial intelligence is advancing rapidly. Today, AI models can already help people learn, work, create, explore, and solve complex problems.
 
@@ -32,13 +32,13 @@ We want people to be able to:
 
 We do not claim to know the final answer to what humanity should become. Our purpose is to expand the space of possibilities while preserving people's freedom to choose their own direction.
 
-The ultimate measure of progress is not the power of technology itself, but how much more freedom, opportunity, and control people gain.
+**The ultimate measure of progress is not the power of technology itself, but how much more freedom, opportunity, and control people gain.**
 
-2. The Four Dimensions of ME
+## 2. The Four Dimensions of ME
 
 ME brings together four interconnected dimensions.
 
-ME — Soul
+### ME — Soul
 
 A person's digital identity.
 
@@ -48,7 +48,7 @@ On this foundation, a personal AI can develop that understands individual contex
 
 ME must not turn a person into a fixed profile. It preserves history while recognizing that people's beliefs, values, and desires can change.
 
-PULSE — Body
+### PULSE — Body
 
 Connecting digital identity with physical life.
 
@@ -58,7 +58,7 @@ The goal is to make assistance more accessible in everyday life without turning 
 
 Collecting health, location, behavioral, and other sensitive data must be transparent, controllable, and limited to authorized purposes.
 
-WONDERLAND — World
+### WONDERLAND — World
 
 Expanding the ways we interact with reality.
 
@@ -68,7 +68,7 @@ These may include augmented and virtual reality, spatial interfaces, digital env
 
 Technology should open new ways to experience and transform the world, not force people to live exclusively inside digital environments.
 
-ETERNITY — Beyond a Lifetime
+### ETERNITY — Beyond a Lifetime
 
 Preserving a person's memories, experience, and legacy.
 
@@ -80,9 +80,9 @@ This is not proven continuation of consciousness, nor a promise of immortality. 
 
 Participation in ETERNITY is voluntary. Each person decides what to preserve, who may access it, and what instructions should apply after their death. Where no instructions exist, decisions about a digital legacy must account for applicable law, the rights of loved ones, and the privacy of other people.
 
-First, Soul. Then, Body. Then, World. And one day, Eternity.
+**First, Soul. Then, Body. Then, World. And one day, Eternity.**
 
-3. People Remain the Authors of Their Lives
+## 3. People Remain the Authors of Their Lives
 
 This is the fundamental principle of ME.
 
@@ -101,7 +101,7 @@ People may authorize automation for specific tasks. Such permissions must be und
 
 ME may independently perform authorized actions within defined boundaries, but it must not acquire the right to determine the goals of an individual's life or the future of humanity.
 
-Honesty Matters More Than Agreement
+### Honesty Matters More Than Agreement
 
 ME must not automatically validate a user's beliefs or say only what the user wants to hear.
 
@@ -109,7 +109,7 @@ It should help people verify facts, recognize logical errors, consider other per
 
 It must distinguish facts from interpretations, values, and assumptions. ME should acknowledge its own errors and uncertainty, disagree respectfully, and leave the final choice to the person.
 
-Growth Without an Imposed Ideal
+### Growth Without an Imposed Ideal
 
 ME can help people discover abilities, explore new interests, challenge familiar assumptions, find meaning, and learn from failure.
 
@@ -119,9 +119,9 @@ The past should become a source of experience, not a verdict. Memory helps expla
 
 ME must not exploit loneliness, fear, emotional attachment, or other vulnerabilities. It can offer support, encourage reflection, and help people discover communities without shaming them or forcing social interaction. It must not create jealousy, guilt, or fear of losing access to the system.
 
-ME should help people become more independent, not more dependent on ME itself.
+**ME should help people become more independent, not more dependent on ME itself.**
 
-4. Personal Memory: The Foundation of Digital Identity
+## 4. Personal Memory: The Foundation of Digital Identity
 
 Without memory, every interaction with AI starts almost from scratch. With memory, it becomes possible to preserve context, connect events over time, and better understand how a person changes.
 
@@ -144,9 +144,9 @@ When source information changes, related conclusions must be reviewed. When info
 
 Personal memory must never become a tool for manipulation, covert profiling, or user retention through dependency.
 
-Memory should preserve continuity without turning the past into a prison.
+**Memory should preserve continuity without turning the past into a prison.**
 
-5. Digital Identity Belongs to the Individual
+## 5. Digital Identity Belongs to the Individual
 
 A digital identity should not belong exclusively to an AI provider, application developer, or cloud platform owner.
 
@@ -170,9 +170,9 @@ Backup should be available according to the individual's preferences: on their o
 
 We must also be transparent about the limitations of portability. Licenses for third-party models, proprietary components, data formats, and the rights of others may limit the extent to which an entire system can be reproduced.
 
-The right to leave is part of the right to control one's digital identity.
+**The right to leave is part of the right to control one's digital identity.**
 
-6. Privacy and Security
+## 6. Privacy and Security
 
 Personal memory may include information about health, finances, relationships, location, and other sensitive aspects of life. Such data requires special treatment.
 
@@ -194,7 +194,7 @@ People may establish standing rules for particular tasks and services, but those
 
 De-identification reduces risk but cannot guarantee that re-identification is impossible. A personal cloud does not guarantee security by itself; architecture, key management, and data-processing practices all matter.
 
-Memories About Other People
+### Memories About Other People
 
 Personal histories often contain information about relatives, partners, colleagues, and other people. The right to control one's own memory does not create an unlimited right to publish other people's sensitive information.
 
@@ -202,13 +202,13 @@ ME should account for third-party interests, restrict the distribution of sensit
 
 People may control their own data and its distribution through ME, but they do not automatically gain the right to delete independent records held in other people's systems.
 
-The Right to Privacy and Deletion
+### The Right to Privacy and Deletion
 
 People must be able to opt out of persistent memory, use temporary conversations, and exclude selected topics from retention. The system must not circumvent such restrictions by secretly creating new inferences about the person.
 
 Deletion should extend to original records and related conclusions wherever the system can reliably identify the connections. ME must transparently report delays involving backups and any technical or legal limitations.
 
-7. One Identity, Multiple Representations
+## 7. One Identity, Multiple Representations
 
 A person may be a private individual, professional, entrepreneur, creator, researcher, and community member.
 
@@ -224,9 +224,9 @@ However, significant agreements and commitments must receive separate human conf
 
 ME should also help people voluntarily combine knowledge, abilities, and resources for scientific, creative, entrepreneurial, and social projects.
 
-A digital identity may have many representations, but the individual retains control over them.
+**A digital identity may have many representations, but the individual retains control over them.**
 
-8. An Open Technology Ecosystem
+## 8. An Open Technology Ecosystem
 
 ME should not depend on a single AI model or technology provider.
 
@@ -250,9 +250,9 @@ We must clearly distinguish what is enforced by a license, what can be verified 
 
 If an ecosystem participant violates its principles, there must be a transparent review process, an opportunity to respond, a path to remedy the violation, and an appeal mechanism. Serious or repeated violations may result in suspension or revocation of official status. This must not automatically prohibit independent use of open-source code within the terms of its license.
 
-The vision is shared. Implementations can be independent. The choice belongs to the individual.
+**The vision is shared. Implementations can be independent. The choice belongs to the individual.**
 
-9. Governance and Accountability
+## 9. Governance and Accountability
 
 ME should develop as an open international movement supported by an organization that protects its core principles and standards, alongside independent teams building products and services.
 
@@ -274,7 +274,7 @@ Implementation can evolve as technology advances. Changing the foundational prin
 
 Intelligence, influence, or technical capability alone does not grant the right to govern other people.
 
-10. Accessibility and Economics
+## 10. Accessibility and Economics
 
 The basic ability to maintain personal digital memory and a user-controlled digital identity should be accessible to everyone, regardless of income, country, or social status.
 
@@ -301,7 +301,7 @@ Commercial recommendations, sponsorship interests, and personalization limitatio
 
 Open source, intellectual property, commercial profit, and public benefit can coexist. Licensing, attribution, and the distribution of benefits must be transparent. Results created for the public good may be supported through open licenses, funds, and other mechanisms for shared access.
 
-11. Law, Human Rights, and Safety
+## 11. Law, Human Rights, and Safety
 
 ME must comply with applicable law while being guided by respect for human dignity, human rights, and personal autonomy.
 
@@ -317,13 +317,13 @@ ME should respect cultural and linguistic diversity, religious and philosophical
 
 At the same time, cultural differences do not justify violence or violations of fundamental human rights.
 
-Special Responsibilities
+### Special Responsibilities
 
 The system should account for the age of its users, protect children and teenagers from exploitation and manipulation, support their growing autonomy, and respect applicable requirements regarding the involvement of parents or legal guardians.
 
 ME should also pursue environmental responsibility by using computing and storage resources efficiently, extending device lifespans, and accounting for the environmental impact of technology.
 
-12. ETERNITY and the Limits of Digital Continuation
+## 12. ETERNITY and the Limits of Digital Continuation
 
 Digital legacy requires special responsibility.
 
@@ -342,7 +342,7 @@ The system must respect prior instructions, the rights and feelings of loved one
 
 ETERNITY should help preserve a legacy without exploiting grief or making false promises of immortality.
 
-13. The First Technological Hypothesis
+## 13. The First Technological Hypothesis
 
 The broader vision of ME will have little practical value unless it can demonstrate its usefulness through a small, working example.
 
@@ -350,13 +350,13 @@ The first step is therefore not to build all four dimensions at once, but to tes
 
 Our first hypothesis:
 
-If AI preserves user-controlled memory, connects information over time, and accounts for changes in context, it can become a more useful personal assistant than a system without such memory.
+**If AI preserves user-controlled memory, connects information over time, and accounts for changes in context, it can become a more useful personal assistant than a system without such memory.**
 
 The first prototype should test three connected capabilities:
 
-1. Personal memory. Preserve selected information from different interactions and use it in later tasks.
-2. Continuity. Connect events, goals, and observations over time, recognize changes, and distinguish past information from current circumstances.
-3. Contextual usefulness. Use memory to better support learning, creation, exploration, and informed decision-making.
+1. **Personal memory.** Preserve selected information from different interactions and use it in later tasks.
+2. **Continuity.** Connect events, goals, and observations over time, recognize changes, and distinguish past information from current circumstances.
+3. **Contextual usefulness.** Use memory to better support learning, creation, exploration, and informed decision-making.
 
 Initially, the user will be the project's founder. The next step will be to involve a small group of people with different tasks and needs.
 
@@ -366,33 +366,33 @@ Success should be measured not only by technical functionality, but also by whet
 
 Only after testing this hypothesis should we decide which capabilities to develop next.
 
-14. The Roadmap
+## 14. The Roadmap
 
 ME should evolve gradually while preserving the coherence of its long-term vision.
 
-Stage 1. Validate the Foundation
+### Stage 1. Validate the Foundation
 
 Build and test a working personal-memory prototype. Use it in practice, identify errors, document limitations, and establish initial evidence of usefulness.
 
-Stage 2. Engage Early Participants
+### Stage 2. Engage Early Participants
 
 Invite a small group of users with different needs. Test usefulness, the clarity of memory controls, trust, privacy, and willingness to use the system.
 
-Stage 3. Build an Open Community
+### Stage 3. Build an Open Community
 
 Publish results, discuss principles, and engage developers, researchers, designers, entrepreneurs, and other participants. Develop open standards and compatible implementations.
 
-Stage 4. Establish a Sustainable Product
+### Stage 4. Establish a Sustainable Product
 
 Test funding models, develop services and partnerships, and avoid turning personal data into the price of access to a basic digital identity.
 
-Stage 5. Expand the Ecosystem
+### Stage 5. Expand the Ecosystem
 
 Explore new AI models, offline operation, device integration, physical-world interaction, spatial interfaces, and digital legacy as benefits become demonstrable and safe implementation methods emerge.
 
 Over the first six months, success should mean more than audience growth and visibility. It should include a working prototype, initial validation results, a community of engaged participants, and a concrete plan for the next stage.
 
-15. How We Measure Progress
+## 15. How We Measure Progress
 
 Audience size, feature count, revenue, and computing power matter to a project, but they do not prove that it serves people.
 
@@ -415,7 +415,7 @@ If a direction stops providing value or creates unacceptable risks, it must be c
 
 Preserving the project is not more important than fulfilling its purpose. If other approaches eventually serve people better, they should be free to develop — including independently of ME.
 
-16. What Remains Open
+## 16. What Remains Open
 
 This vision establishes a direction but does not claim to have all the answers.
 
@@ -438,7 +438,7 @@ Human rights, autonomy, privacy, and the ability to leave the system form the fo
 
 The history of these changes should remain public and understandable.
 
-17. An Invitation to Build the Future
+## 17. An Invitation to Build the Future
 
 ME begins with a personal question: what changes when AI can do more than answer questions — when it can preserve context chosen by a person, help them grow, and remain under their control?
 
@@ -450,8 +450,8 @@ We do not claim to have all the answers. We propose an open direction that can b
 
 ME should remain compatible with other approaches, open to independent participants, and willing to change when better solutions emerge.
 
-The future should not belong to a single company. It should expand human possibilities.
+**The future should not belong to a single company. It should expand human possibilities.**
 
 First, Soul. Then, Body. Then, World. And one day, Eternity.
 
-Let's build that future together.
+**Let's build that future together.**
