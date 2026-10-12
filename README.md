@@ -73,6 +73,7 @@ This repository documents the evolving idea behind ME.
 - [Manifesto](Manifesto.md) — the principles and beliefs behind the project.
 - [Vision](vision.md) — the broader concept and possible directions.
 - [History](History.md) — how the idea began and how it evolved.
+- [Project Status](Status.md) — the current stage, priorities, and next milestone.
 
 **ME is a question as much as it is a project:**
 
