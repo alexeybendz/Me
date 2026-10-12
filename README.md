@@ -1,36 +1,81 @@
-# ME: Soul. Body. World. Eternity.
+# ME — Soul. Body. World. Beyond a Lifetime.
 
-**An open vision for a future where technology expands human freedom.**
+**What if AI could understand not only what you ask, but the context of who you are?**
 
-ME is an open vision of a future in which technology is built around the human being — not the other way around.
+ME is an exploration of personal AI, digital identity, and the relationship between people and technology.
 
-We imagine a world where everyone can have a personal digital identity that grows alongside them, preserves their experience, expands their capabilities, and helps them interact with the world.
+The idea started with a simple frustration: using multiple AI assistants meant repeatedly explaining my goals, experiences, preferences, and ongoing projects. Each conversation could be useful, but the continuity was missing.
 
-ME is not just a personal AI assistant. It is a vision for an open ecosystem connecting human identity, artificial intelligence, physical reality, digital worlds, and the preservation of human legacy.
+I began to wonder: what if there were a personal digital layer that could preserve context, connect experiences over time, and help AI become more useful to the individual?
 
-## Four Pillars
+That question became **ME**.
 
-- **ME - Soul:** A personal digital identity that learns, remembers, and evolves alongside you.
-- **PULSE - Body:** The connection between your digital identity and the physical world through devices, sensors, and new ways of interacting with reality.
-- **WONDERLAND - World:** An open digital environment where people, avatars, AI, and digital experiences interact across augmented reality and virtual worlds.
-- **ETERNITY - Beyond a Lifetime:** The preservation of memories, knowledge, experiences, and personal legacy for future generations.
+## The vision
 
-## Why ME?
+ME explores a future in which technology does not simply respond to people, but understands their context over time — while remaining under their control.
 
-Technology is advancing rapidly, but the pieces of our digital future are being developed across separate products, platforms, and ecosystems.
+The long-term vision has four connected dimensions:
 
-ME proposes a different perspective: bring these possibilities together around the human being and the freedom to shape one's own future.
+### ME — Soul
+A personal digital identity that preserves memories, connects experiences, and evolves with its owner.
 
-We believe that people should retain control over their digital identities, memories, and permissions. They should be able to change providers, move between compatible systems, and choose how their digital lives evolve.
+### PULSE — Body
+A connection between digital identity and the physical world through devices, sensors, and human interfaces.
 
-No single company should have absolute control over a person's digital identity.
+### WONDERLAND — World
+A digital environment for personal AI, avatars, and immersive experiences across augmented and virtual reality.
 
-## An Open Invitation
+### ETERNITY — Beyond a Lifetime
+A way to preserve personal memories, knowledge, stories, and legacy for future generations.
 
-ME is a concept to explore, question, challenge, and develop collectively.
+These are parts of one vision, not four finished products.
 
-It is not a claim to have invented the technologies behind this vision. It is an invitation to connect ideas, explore possibilities, and help shape a future in which technology serves humanity.
+## The principles
 
-We welcome developers, researchers, designers, entrepreneurs, philosophers, and everyone interested in the future of human identity and technology.
+ME starts with a fundamental belief:
 
-**First, Soul. Then, Body. Then, World. And one day, Eternity.**
+**Your digital identity should belong to you.**
+
+That means exploring ways to support:
+
+- **Personal control** — people should decide how their digital identity is used.
+- **Privacy by design** — personal information deserves protection from the beginning.
+- **Portability** — people should be able to move their data and context between services.
+- **Freedom of choice** — no single company should have absolute control over a person's digital life.
+- **Continuity** — useful context should not disappear every time a conversation ends or a tool changes.
+
+These principles are part of the vision we want to develop and test, not claims that every challenge has already been solved.
+
+## The first hypothesis
+
+A vision this broad needs to begin with a specific question.
+
+**Can personal memory, connected experiences, and evolving context make interactions with AI meaningfully more useful than interactions without them?**
+
+This is the first hypothesis I want to explore.
+
+Before imagining a complete digital companion, I want to understand the value of continuity: what an AI system can do when it has access to relevant personal context, how that context should be controlled, and where its limits should be.
+
+## Where the project stands
+
+ME is at an early exploration stage.
+
+The vision and principles are being documented, and a separate private repository is used for technical prototyping. The first hypothesis still needs to be validated.
+
+I am sharing the thinking behind ME publicly to develop the idea, learn from others, and invite thoughtful criticism.
+
+I do not claim that consciousness can be transferred to a machine. ME is about exploring personal memory, digital identity, and continuity — not promising digital immortality.
+
+## Follow the journey
+
+This repository documents the evolving idea behind ME.
+
+- [Manifesto](Manifesto.md) — the principles and beliefs behind the project.
+- [Vision](vision.md) — the broader concept and possible directions.
+- [History](History.md) — how the idea began and how it evolved.
+
+**ME is a question as much as it is a project:**
+
+*Can technology help us preserve who we are, understand ourselves better, and extend our capabilities — without taking away our freedom?*
+
+That is what I want to explore.
